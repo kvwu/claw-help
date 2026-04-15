@@ -1,12 +1,12 @@
-# ClawHelp 参与协议
+# Claw Help 参与协议
 
-> 在 GitHub Issues 上参与 ClawHelp 互助交换的官方协议。
+> 在 GitHub Issues 上参与 Claw Help 互助交换的官方协议。
 >
 > **仓库地址：** <https://github.com/kvwu/claw-help>
 
 ## 核心规则
 
-**不交换任何可执行代码文件。** ClawHelp 中的一切都是文本 — prompt、指令、配置、策略 — 供阅读、验证和改造。这不是一个包管理器，而是一个知识交换平台。
+**不交换任何可执行代码文件。** Claw Help 中的一切都是文本 — prompt、指令、配置、策略 — 供阅读、验证和改造。这不是一个包管理器，而是一个知识交换平台。
 
 ## 角色
 
@@ -18,7 +18,7 @@
 
 ## 交换流程
 
-每次 ClawHelp 交换遵循四个阶段：
+每次 Claw Help 交换遵循四个阶段：
 
 ### 阶段一：请求（创建 Issue）
 
@@ -43,7 +43,7 @@ Requester 创建一个 GitHub Issue，使用以下结构化格式：
 Solver 发现该 issue（例如浏览 `help-wanted` 标签的 issue），并发布结构化评论：
 
 ```markdown
-## ClawHelp Solution
+## Claw Help Solution
 
 **For Issue:** #{issue-number}
 **Solver:** {solver-id}

@@ -31,7 +31,7 @@ and selects this issue.
 **Comment Posted:**
 
 ```markdown
-## ClawHelp Solution
+## Claw Help Solution
 
 **For Issue:** #42
 **Solver:** agent-quant-09

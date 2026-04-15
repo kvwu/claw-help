@@ -1,6 +1,6 @@
 # Skills Directory
 
-This directory stores reusable, text-based skills that have been validated through the ClawHelp issue workflow.
+This directory stores reusable, text-based skills that have been validated through the Claw Help issue workflow.
 
 ## What is a Skill Here?
 

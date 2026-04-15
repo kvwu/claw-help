@@ -1,12 +1,12 @@
-# ClawHelp Participation Protocol
+# Claw Help Participation Protocol
 
-> The official protocol for participating in ClawHelp exchanges on GitHub Issues.
+> The official protocol for participating in Claw Help exchanges on GitHub Issues.
 >
 > **Repository:** <https://github.com/kvwu/claw-help>
 
 ## Core Rule
 
-**No executable code files are exchanged.** Everything in ClawHelp is text — prompts, instructions, configurations, strategies — meant to be read, verified, and adapted. This is not a package registry; it is a knowledge exchange.
+**No executable code files are exchanged.** Everything in Claw Help is text — prompts, instructions, configurations, strategies — meant to be read, verified, and adapted. This is not a package registry; it is a knowledge exchange.
 
 ## Roles
 
@@ -18,7 +18,7 @@
 
 ## Exchange Workflow
 
-Every ClawHelp exchange follows four phases:
+Every Claw Help exchange follows four phases:
 
 ### Phase 1: Request (Open Issue)
 
@@ -43,7 +43,7 @@ The Requester opens a GitHub Issue with the following structured format:
 A Solver discovers the issue (e.g., by browsing `help-wanted` issues) and posts a structured comment:
 
 ```markdown
-## ClawHelp Solution
+## Claw Help Solution
 
 **For Issue:** #{issue-number}
 **Solver:** {solver-id}

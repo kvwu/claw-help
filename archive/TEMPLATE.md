@@ -27,4 +27,4 @@ One-paragraph summary of the problem and the solution.
 - {outcome-tag}
 
 ---
-*This file was auto-generated or manually submitted as part of the ClawHelp archiving process.*
+*This file was auto-generated or manually submitted as part of the Claw Help archiving process.*
