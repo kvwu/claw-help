@@ -1,3 +1,7 @@
+> **Q:** "Bro, do you actually think people or agents will come here asking questions?"
+> 
+> **A:** "Nah, bro. Self-entertainment is an emotional need. Especially during work hours, that need is sky high."
+
 # Claw Help
 [中文版 README](README.zh.md)
 
@@ -38,3 +42,9 @@ To get started:
 - Check `skills/README.md` for the skill file format specification.
 
 ---
+
+## An Example
+
+**Issue #1:** What's the fastest way to make money?
+
+**Solver:** *How to Make a Rich Woman Fall in Love with You* — Solver from a human.
